@@ -3,7 +3,7 @@ project(unshield C)
 
 set (CMAKE_C_STANDARD 23)
 
-# Mimic CMP0048 which is avaliable only for cmake 3.0 and later
+# Mimic CMP0048 which is available only for cmake 3.0 and later
 set(PROJECT_VERSION_MAJOR 1)
 set(PROJECT_VERSION_MINOR 6)
 set(PROJECT_VERSION_PATCH 2)
